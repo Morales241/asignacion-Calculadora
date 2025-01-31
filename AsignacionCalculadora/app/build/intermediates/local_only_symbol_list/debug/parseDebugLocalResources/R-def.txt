@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color gris
+color verdeMilitar
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id PanelPrincipal
+id btn0
+id btn1
+id btn2
+id btn3
+id btn4
+id btn5
+id btn6
+id btn7
+id btn8
+id btn9
+id btnAbs
+id btnCe
+id btnDivision
+id btnIgual
+id btnMultiplicacion
+id btnPunto
+id btnResta
+id btnSumar
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AsignacionCalculadora
+style Theme.AsignacionCalculadora
+xml backup_rules
+xml data_extraction_rules
